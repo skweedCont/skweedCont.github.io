@@ -1,0 +1,1 @@
+import{u as s,j as e}from"./index-3QrglWIx.js";const t=()=>{const r=s();return e.jsx("section",{children:e.jsxs("div",{className:"problem h-w-full flex-center",children:[e.jsx("div",{className:"problem-page",children:" Error!"}),e.jsx("input",{type:"button",value:"reload",onClick:()=>r(0),className:"problem-btn"})]})})};export{t as default};
